@@ -6,4 +6,15 @@
     <color name="dark">#0097a7</color>
     <color name="grey">#e0e0e0</color>
 
+    <color name="gray_dark">#666666</color>
+    <color name="black_alpha_light">#3c3f41</color>
+    <color name="black_light">#383838</color>
+
+    <color name="chart_color_1">#5793f3</color>
+    <color name="chart_color_2">#DC4D79</color>
+    <color name="chart_color_3">#FD9C35</color>
+    <color name="chart_color_4">#D3DF59</color>
+
+    <color name="blue">#03a9f4</color>
+    <color name="red">#ff4081</color>
 </resources>
